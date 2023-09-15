@@ -2,7 +2,7 @@
 
 **My name is _Nikoletta Targonska_** :dizzy: 
 
-~~k-means~~ hierarchcal clustering. 
+~~k-means~~ hierarchical clustering. 
 
 `Data Analysis`  
 
