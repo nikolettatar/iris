@@ -6,6 +6,6 @@
 
 `Data Analysis`  
 
-You can download rstudio [HERE] (https://posit.co/download/rstudio-desktop/) ! :computer:
+You can download rstudio [HERE](https://posit.co/download/rstudio-desktop/) ! :computer:
 
 
