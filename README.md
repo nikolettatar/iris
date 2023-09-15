@@ -8,5 +8,4 @@
 
 You can download rstudio [HERE] (https://posit.co/download/rstudio-desktop/) ! :computer:
 
-[x] *summer*
-[ ] *winter*
+
